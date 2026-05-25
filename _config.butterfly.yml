@@ -18,10 +18,9 @@ nav:
   fixed: false
 
 menu:
-  # Home: / || fas fa-home
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
+  Home: / || fas fa-home
+  About: /about/ || fas fa-heart
+  Projects: /projects/ || fas fa-folder
 
 # --------------------------------------
 # Code Blocks Settings
@@ -123,7 +122,7 @@ post_meta:
     # Choose: date / relative
     date_format: date
     categories: true
-    tags: false
+    tags: true
     label: true
   post:
     # Choose: left / center
@@ -355,6 +354,13 @@ aside:
     runtime_date:
 
 # --------------------------------------
+# Sidebar
+# --------------------------------------
+
+sidebar:
+  display_position: right
+
+# --------------------------------------
 # Bottom right button
 # --------------------------------------
 
@@ -484,6 +490,7 @@ search:
 
   # Local Search
   local_search:
+    enable: true
     # Preload the search data when the page loads.
     preload: false
     # Show top n results per article, show all results by setting to -1
