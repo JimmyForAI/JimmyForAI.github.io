@@ -6,7 +6,7 @@ type: about
 
 ## 关于我
 
-你好！我是 [你的名字]。
+你好！我是 Jimmy。
 
 这里是一个热爱技术、喜欢分享的开发者。
 
@@ -18,5 +18,5 @@ type: about
 
 ### 联系方式
 
-- GitHub: [@username](https://github.com/username)
-- Email: your-email@example.com
+- GitHub: [@JimmyForAI](https://github.com/JimmyForAI)
+- Email: face.facetopg@gmail.com
